@@ -1,0 +1,14 @@
+body {
+  /* background-color: aquamarine; */
+  min-width: 500px;
+}
+
+.answer-container {
+  display: flex;
+  flex-direction: column;
+  width: 90vw;
+  margin: auto;
+}
+p {
+  font-size: 1.2rem;
+}
